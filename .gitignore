@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ecommerce.services.order/.vs
+/ecommerce.services.order/ecommerce.services.order/bin/Debug/net6.0
+/ecommerce.services.order/ecommerce.services.order/obj
